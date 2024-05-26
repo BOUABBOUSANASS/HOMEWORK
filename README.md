@@ -30,7 +30,7 @@ The project is organized into several Bash scripts:
 ### Adding a Task
 To add a new task, use the `-a` option followed by the task details:
 
-```bash
+
 ./main.sh -a --title='Buy groceries' --description='Buy milk, eggs, and bread' --location='Supermarket' --finishDate='13/03/2024 10:00'
 
 ### Updating a Task
